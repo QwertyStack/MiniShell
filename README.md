@@ -1,6 +1,6 @@
 # MiniShell
 
-_La función es la de realizar un programa que actúe como intérprete de mandatos. Esta minishell interpreta y ejecuta mandatos 
+_La función es la dde realizar un programa que actúe como intérprete de mandatos. Esta minishell interpreta y ejecuta mandatos 
 leyéndolos de la entrada estándar, así como dando la posibilidad al usuario de utilizar redirecciones._
 
 ### Pre-requisitos 📋
