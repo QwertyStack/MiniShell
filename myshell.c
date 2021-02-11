@@ -1,6 +1,7 @@
 /*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
  *	@author 											*
- *	QwertyStack											*
+ *	QwertyStack
+ * 	jesusgh18											*
  *														*
  *	@description										*
  *	Programa encargado de imitar a pequeña escala un	*
