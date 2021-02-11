@@ -9,9 +9,9 @@ leyéndolos de la entrada estándar, así como dando la posibilidad al usuario d
 En definitiva el interprete es capaz de:
   - Ejecutar una secuencia de uno o varios mandatos separados por el carácter ’|’.
   - Permitir redirecciones:
-    - Entrada: < f ichero. Sólo puede realizarse sobre el primer mandato del pipe.
-    - Salida: > f ichero. Sólo puede realizarse sobre el último mandato del pipe.
-    - Error: > &f ichero. Sólo puede realizarse sobre el último mandato del pipe.
+    - Entrada: < fichero. Sólo puede realizarse sobre el primer mandato del pipe.
+    - Salida: > fichero. Sólo puede realizarse sobre el último mandato del pipe.
+    - Error: > &fichero. Sólo puede realizarse sobre el último mandato del pipe.
   - Permitir la ejecución en background de la secuencia de mandatos si termina con el carácter '&' sin bloquerse.
   - Mostrar en pantalla un prompt similar al original.
   - Leer una lı́nea del teclado.
