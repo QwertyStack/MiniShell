@@ -1,7 +1,7 @@
 /*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
  *	@author 											*
  *	QwertyStack
- * 	jesusgh18											*
+ * 	jesusmc23											*
  *														*
  *	@description										*
  *	Programa encargado de imitar a pequeña escala un	*
