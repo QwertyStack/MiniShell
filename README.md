@@ -1,7 +1,12 @@
 # MiniShell
 
-la función de este es la de realizar un programa que actúe como intérprete de mandatos. Esta minishell interpreta y ejecuta mandatos 
-leyéndolos de la entrada estándar, así como dando la posibilidad al usuario de utilizar redirecciones. En definitiva el interprete es capaz de:
+La función es la de realizar un programa que actúe como intérprete de mandatos. Esta minishell interpreta y ejecuta mandatos 
+leyéndolos de la entrada estándar, así como dando la posibilidad al usuario de utilizar redirecciones. 
+
+### Pre-requisitos 📋
+
+### Funcionamiento ⚙️
+En definitiva el interprete es capaz de:
   - Ejecutar una secuencia de uno o varios mandatos separados por el carácter ’|’.
   - Permitir redirecciones:
     - Entrada: < f ichero. Sólo puede realizarse sobre el primer mandato del pipe.
@@ -13,7 +18,8 @@ leyéndolos de la entrada estándar, así como dando la posibilidad al usuario d
   - Analizarla utilizando la librerı́a parse.
   - Ejecutar todos los mandatos de la lı́nea a la vez creando varios procesos hijo y comunicando unos con otros con las tuberı́as que sean necesarias, y realizando las redirecciones que sean necesarias. En caso de que no se ejecute en background, se espera a que todos los mandatos hayan finalizado para volver a mostrar el prompt y repetir el proceso.
 
-Teniendo en cuenta que:
+### Consideraciones 🤔
+Se deberán tener en cuenta los siguientes casos:
   - Si la lı́nea introducida no contiene ningún mandato o se ejecuta el mandato en background, se volverá a mostrar el prompt a la espera de una nueva lı́nea.
   - Si alguno de los mandatos a ejecutar no existe, el programa debe mostrar el error “mandato: No se encuentra el mandato”.
   - Si se produce algún error al abrir cualquiera de los ficheros de las redirecciones, debe mostrarse el error “fichero: Error. Descripción del error”.
