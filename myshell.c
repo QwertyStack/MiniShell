@@ -1,11 +1,10 @@
 /*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
- *	@author 											*
- *	QwertyStack
- * 	jesmc23											*
+ *	@author 												*
+ *	QwertyStack												*
+ * 	jesmc23													*
  *														*
- *	@description										*
- *	Programa encargado de imitar a pequeña escala un	*
- *	intérprete de comandos en distribución Linux.		*
+ *	@description												*
+ *	Programa encargado de imitar a pequeña escala un intérprete de comandos en distribución Linux.		*
  *	*	*	*	*	*	*	*	*	*	*	*	*	*	*/
 
 //Librerías
