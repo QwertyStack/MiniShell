@@ -29,7 +29,7 @@ Se deberán tener en cuenta los siguientes casos:
 
 ## Autores ✒️
 
-* **** - [QwertyStack](https://github.com/QwertyStack)
-* **jesmc23** - [jesmc23](https://github.com/jesmc23)
+* [QwertyStack](https://github.com/QwertyStack)
+* [jesmc23](https://github.com/jesmc23)
 
 
