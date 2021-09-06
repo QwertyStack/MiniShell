@@ -24,7 +24,9 @@ Se deberán tener en cuenta los siguientes casos:
   - Si se produce algún error al abrir cualquiera de los ficheros de las redirecciones, debe mostrarse el error “fichero: Error. Descripción del error”.
   - Ni el minishell ni los procesos en background deben finalizar al recibir las señales desde teclado SIGINT (Ctrl − C) y SIGQUIT (Ctrl − / ) mientras que los procesos que se lancen deben actuar ante ellas, manteniendo la acción por defecto.
 
+### Licencia 📄
 
+Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
 
 
 ## Autores ✒️
