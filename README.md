@@ -26,7 +26,7 @@ Se deberán tener en cuenta los siguientes casos:
 
 ### Licencia 📄
 
-Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [LICENSE.md](https://github.com/QwertyStack/MiniShell/blob/main/LICENSE) para detalles.
 
 
 ## Autores ✒️
